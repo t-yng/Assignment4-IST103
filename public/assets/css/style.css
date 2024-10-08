@@ -1,0 +1,4 @@
+a {
+  /* revert Bootstrap5 link color */
+  color: revert;
+}
